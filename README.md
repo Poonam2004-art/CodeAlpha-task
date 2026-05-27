@@ -1,18 +1,25 @@
-# CodeAlpha C Programming Internship Project
+# CodeAlpha C Programming Internship Projects
 
-## 📌 Project Title
-Basic Calculator Program in C
+## 👩‍💻 Author
+Poonam Sharma
+
+## 🏢 Internship
+Submitted for CodeAlpha Internship Program
+
+---
+
+# 📌 Project 1: Basic Calculator Program
 
 ## 📖 Description
-This project is developed as part of the CodeAlpha C Programming Internship.
+This project is a simple calculator developed using C programming language.  
+It performs:
 
-The calculator performs:
 - Addition
 - Subtraction
 - Multiplication
 - Division
 
-using switch case in C.
+using switch case.
 
 ---
 
@@ -21,13 +28,6 @@ using switch case in C.
 - Arithmetic Operations
 - User Input Handling
 - Switch Case Implementation
-
----
-
-## 🛠️ Technologies Used
-- C Programming
-- VS Code
-- GCC Compiler
 
 ---
 
@@ -45,28 +45,108 @@ calculator.exe
 
 ---
 
-## 💻 Sample Output
+# 📌 Project 2: Matrix Operations
 
-```text
-Enter first number: 10
-Enter second number: 5
+## 📖 Description
+This project performs different matrix operations using C programming.
 
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
+Operations Included:
+- Matrix Addition
+- Matrix Multiplication
+- Matrix Transpose
 
-Enter your choice: 1
+---
 
-Result = 15.00
+## 🚀 Features
+- 3x3 Matrix Operations
+- Matrix Addition
+- Matrix Multiplication
+- Transpose of Matrix
+
+---
+
+## ▶️ How to Run
+
+Compile:
+```bash
+gcc Matrix.c -o matrix
+```
+
+Run:
+```bash
+matrix.exe
 ```
 
 ---
 
-## 👩‍💻 Author
-Poonam Sharma
+# 📌 Project 3: Student Management System
+
+## 📖 Description
+This project stores and displays student details using structures in C programming.
+
+Student details include:
+- Roll Number
+- Name
+- Marks
 
 ---
 
-## 🔗 Internship
-Submitted for CodeAlpha Internship.
+## 🚀 Features
+- Structure Concept
+- Student Record Storage
+- User Input Handling
+- Record Display System
+
+---
+
+## ▶️ How to Run
+
+Compile:
+```bash
+gcc Student.c -o student
+```
+
+Run:
+```bash
+student.exe
+```
+
+---
+
+# 🛠️ Technologies Used
+- C Programming Language
+- VS Code
+- GCC Compiler
+
+---
+
+# 📂 Project Files
+
+```text
+CodeAlpha_Projects
+│
+├── Calculator.c
+├── Matrix.c
+├── Student.c
+├── README.md
+├── calculator_output.png
+├── matrix_output.png
+└── student_output.png
+```
+
+---
+
+# 🎯 Learning Outcomes
+- Switch Case
+- Structures
+- Functions
+- Arrays & Matrices
+- Logic Building
+- User Input Handling
+
+---
+
+# 🔗 Internship Submission
+These projects are submitted as part of the CodeAlpha C Programming Internship.
+
+#CodeAlpha #CProgramming #Internship
